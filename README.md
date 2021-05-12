@@ -1,6 +1,6 @@
 # pm-notes
 ## Key points
-### The Four Frames of Organizations are structural frame,political frame,human resources frame and symbolic frame
+#### The Four Frames of Organizations are structural frame,political frame,human resources frame and symbolic frame
 ### Three basic organizational structures are functional,project and matrix
 ### Organizational culture is a set of shared assumptions, values, and behaviors that characterize the functioning of an organization
 ### A deliverable is a product or service produced or provided as part of a project
