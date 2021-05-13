@@ -16,5 +16,11 @@
 * Outsourcing
 * Agile project management
 #### Scrum is the leading agile development method for completing projects with a complex, innovative scope of work
+## Project management process groups 
+* Initiating processes
+* Planning processes
+* Executing processes
+* Monitoring and controlling processes
+* Closing processes
 
 
